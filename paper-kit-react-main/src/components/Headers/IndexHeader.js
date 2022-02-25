@@ -38,7 +38,7 @@ function IndexHeader() {
         <div className="content-center">
           <Container>
             <div className="title-brand">
-              <h1 className="presentation-title">Vegin...?</h1>
+              <h1 className="presentation-title">Vegin...??</h1>
               <div className="fog-low">
                 <img
                   alt="..."
