@@ -53,7 +53,7 @@ function IndexHeader() {
               </div>
             </div>
             <h2 className="presentation-subtitle text-center">
-              Be Vegin is...(아마도?)
+              Be Vegin
             </h2>
           </Container>
         </div>
