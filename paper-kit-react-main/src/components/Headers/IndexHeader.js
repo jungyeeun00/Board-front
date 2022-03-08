@@ -31,7 +31,7 @@ function IndexHeader() {
         className="page-header section-dark"
         style={{
           backgroundImage:
-            "url(" + require("assets/img/antoine-barres.jpg").default + ")",
+            "url(" + require("assets/img/antoine-barres.jpg") + ")",
         }}
       >
         <div className="filter" />
@@ -42,13 +42,13 @@ function IndexHeader() {
               <div className="fog-low">
                 <img
                   alt="..."
-                  src={require("assets/img/fog-low.png").default}
+                  src={require("assets/img/fog-low.png")}
                 />
               </div>
               <div className="fog-low right">
                 <img
                   alt="..."
-                  src={require("assets/img/fog-low.png").default}
+                  src={require("assets/img/fog-low.png")}
                 />
               </div>
             </div>
@@ -61,7 +61,7 @@ function IndexHeader() {
           className="moving-clouds"
           style={{
             backgroundImage:
-              "url(" + require("assets/img/clouds.png").default + ")",
+              "url(" + require("assets/img/clouds.png") + ")",
           }}
         />
         <h6 className="category category-absolute">
@@ -73,7 +73,7 @@ function IndexHeader() {
             <img
               alt="..."
               className="creative-tim-logo"
-              src={require("assets/img/creative-tim-white-slim2.png").default}
+              src={require("assets/img/creative-tim-white-slim2.png")}
             />
           </a>
         </h6>

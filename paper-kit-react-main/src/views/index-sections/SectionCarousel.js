@@ -34,17 +34,17 @@ import {
 
 const items = [
   {
-    src: require("assets/img/soroush-karimi.jpg").default,
+    src: require("assets/img/soroush-karimi.jpg"),
     altText: "Somewhere",
     caption: "Somewhere",
   },
   {
-    src: require("assets/img/federico-beccari.jpg").default,
+    src: require("assets/img/federico-beccari.jpg"),
     altText: "Somewhere else",
     caption: "Somewhere else",
   },
   {
-    src: require("assets/img/joshua-stannard.jpg").default,
+    src: require("assets/img/joshua-stannard.jpg"),
     altText: "Here it is",
     caption: "Here it is",
   },

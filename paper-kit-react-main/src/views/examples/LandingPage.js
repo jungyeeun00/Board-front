@@ -162,7 +162,6 @@ function LandingPage() {
                         alt="..."
                         src={
                           require("assets/img/faces/clem-onojeghuo-3.jpg")
-                            .default
                         }
                       />
                     </a>
@@ -215,7 +214,7 @@ function LandingPage() {
                       <img
                         alt="..."
                         src={
-                          require("assets/img/faces/joe-gardner-2.jpg").default
+                          require("assets/img/faces/joe-gardner-2.jpg")
                         }
                       />
                     </a>
@@ -270,7 +269,6 @@ function LandingPage() {
                         alt="..."
                         src={
                           require("assets/img/faces/erik-lucatero-2.jpg")
-                            .default
                         }
                       />
                     </a>
