@@ -98,7 +98,7 @@ function IndexNavbar() {
                 target="_blank"
                 title="Follow us on Twitter"
               >
-                <i className="fa fa-twitter">HOME..</i>
+                <i className="fa fa-twitter">홈</i>
                 <p className="d-lg-none">Twitter</p>
               </NavLink>
             </NavItem>
@@ -150,7 +150,7 @@ function IndexNavbar() {
                 href="https://www.creative-tim.com/product/paper-kit-pro-react?ref=pkr-index-navbar"
                 target="_blank"
               >
-                <i className="nc-icon nc-spaceship"></i> Upgrade to Pro
+                <i className="nc-icon nc-spaceship">Upgrade to Pro</i> 
               </Button>
             </NavItem>
           </Nav>
